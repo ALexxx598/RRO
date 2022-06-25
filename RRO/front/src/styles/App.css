@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #eef8ff;
+}
+
+#root {
+    /*display: flex;*/
+    /*justify-content: center;*/
+}
+
+.App {
+    width: 95%;
+}
+
+.legal_entity {
+    display: flex;
+    padding: 15px;
+    border: 1px solid teal;
+    margin-top: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.legal_btns {
+    padding-top: 10px;
+}
+
+.entity_content {
+    width: 100%;
+    display: inline-table;
+}
+
+.body {
+    display: inline;
+}
+
+.main_content {
+}
+
+.nav_bar {
+    display: inline;
+}
+
+.legalEntityInputs {
+    display: flex;
+}

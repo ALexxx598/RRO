@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a42a3437-6f6b-45c5-a8f6-817c7c263e42" name="Changes" comment="check new branch" />
+    <list default="true" id="a42a3437-6f6b-45c5-a8f6-817c7c263e42" name="Changes" comment="feature/init back" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +49,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/RRO/back" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -68,7 +69,7 @@
       <updated>1656144158318</updated>
       <workItem from="1656144159421" duration="173000" />
       <workItem from="1656144343136" duration="1087000" />
-      <workItem from="1656145723056" duration="150000" />
+      <workItem from="1656145723056" duration="464000" />
     </task>
     <task id="LOCAL-00001" summary="check new branch">
       <created>1656145776937</created>
@@ -77,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656145776937</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feature/init back">
+      <created>1656146306725</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656146306725</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="check new branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="check new branch" />
+    <MESSAGE value="feature/init back" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature/init back" />
   </component>
 </project>

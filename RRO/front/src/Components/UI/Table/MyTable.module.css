@@ -1,0 +1,25 @@
+table {
+    font-size: 14px;
+    background: #eef8ff;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    margin-top: 15px;
+}
+
+th {
+    font-weight: normal;
+    color: black;
+    border: 1px solid teal;
+    padding: 10px 8px;
+}
+
+td {
+    color: teal;
+    padding: 9px 8px;
+    transition: .3s linear;
+}
+
+tr:hover td {
+    color: #6699ff;
+}

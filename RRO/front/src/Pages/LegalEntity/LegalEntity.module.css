@@ -1,0 +1,15 @@
+.main {
+    display: flex;
+}
+
+.filters {
+    width: 15%;
+    margin-top: 15px;
+    border: 1px solid teal;
+    margin-right: 5px;
+}
+
+.legalEntityForm {
+    width: 85%;
+    /*margin-left: 15%;*/
+}
