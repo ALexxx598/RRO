@@ -74,7 +74,9 @@
       <workItem from="1656144159421" duration="173000" />
       <workItem from="1656144343136" duration="1087000" />
       <workItem from="1656145723056" duration="1923000" />
-      <workItem from="1656148080151" duration="446000" />
+      <workItem from="1656148080151" duration="1182000" />
+      <workItem from="1656168773433" duration="735000" />
+      <workItem from="1656169527443" duration="715000" />
     </task>
     <task id="LOCAL-00001" summary="check new branch">
       <created>1656145776937</created>
@@ -97,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656146495563</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feature/init front">
+      <created>1656148657707</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656148657707</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
