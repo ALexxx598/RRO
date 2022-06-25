@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a42a3437-6f6b-45c5-a8f6-817c7c263e42" name="Changes" comment="" />
+    <list default="true" id="a42a3437-6f6b-45c5-a8f6-817c7c263e42" name="Changes" comment="check new branch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,12 +48,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RRO" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RRO/back" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Software\OpenServer\domains\projects\WorkRRO\RRO\back" />
       <recent name="E:\Software\OpenServer\domains\projects\WorkRRO" />
     </key>
   </component>
@@ -67,7 +68,16 @@
       <updated>1656144158318</updated>
       <workItem from="1656144159421" duration="173000" />
       <workItem from="1656144343136" duration="1087000" />
+      <workItem from="1656145723056" duration="150000" />
     </task>
+    <task id="LOCAL-00001" summary="check new branch">
+      <created>1656145776937</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656145776937</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,5 +94,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="check new branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="check new branch" />
   </component>
 </project>
